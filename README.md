@@ -1,2 +1,2 @@
 # Advanced_RAKE
-Advanced RAKE for Real Time Systems
+Advanced RAKE implementation for Real Time Systems
